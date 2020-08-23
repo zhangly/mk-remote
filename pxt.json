@@ -1,0 +1,21 @@
+{
+    "name": "麦克纳姆轮-遥控",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "joystickbit": "github:tinkertanker/pxt-joystickbit#6843206a6b88d541d1bbd62bf182db2b2d36bdf2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
